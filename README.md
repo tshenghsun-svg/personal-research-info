@@ -1,2 +1,5 @@
-# personal-research-info
-Public application information, privacy notice and terms for Duncan personal financial research.
+# Duncan 個人財務研究
+
+個人非商業財務研究工具的公開應用程式資訊、隱私權說明與使用條款。
+
+靜態資訊頁，沒有登入、OAuth 回呼、查詢、資料上傳或追蹤腳本。
